@@ -1,0 +1,51 @@
+header {
+  background-color: #f6f5f4;
+  padding: 24px 0px;
+  width: 100%;
+  & .headerContainer {
+    max-width: 1180px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    & .headerName {
+      text-decoration: none;
+      font-family: Montserrat;
+      font-weight: 600;
+      font-style: SemiBold;
+      font-size: 16.39px;
+      color: #000000;
+    }
+    & .headerLoginContainer {
+      display: flex;
+      align-items: center;
+      & .loginButton {
+        margin-right: 25px;
+
+        font-family: Montserrat;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 16.55px;
+        line-height: 100%;
+        color: #000000;
+        text-decoration: none;
+      }
+
+      & .headerSignButton {
+        text-decoration: none;
+        padding: 13px 21px;
+        border: 0px solid black;
+        border-radius: 14px;
+        background-color: #2b788b;
+
+        color: #ffffff;
+        font-family: Montserrat;
+        font-weight: 700;
+        font-style: Bold;
+        font-size: 16.55px;
+        vertical-align: middle;
+      }
+    }
+  }
+}

@@ -1,0 +1,164 @@
+main {
+  width: 100%;
+  background-color: #f6f5f4;
+  & .firstSectionBack {
+    width: 100%;
+    background-color: #f6f5f4;
+    & .firstSection {
+      max-width: 1180px;
+      margin: auto;
+      padding-top: 95px;
+
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      & .firstSectionLeft {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        & .platformDescription {
+          color: #2b788b;
+          font-family: Montserrat;
+          font-weight: 700;
+          font-style: Bold;
+          font-size: 16px;
+          line-height: 100%;
+          letter-spacing: 14%;
+        }
+        & .firstSectionHead {
+          color: #000000;
+          margin-top: 24px;
+          font-family: Dela Gothic One;
+          font-weight: 400;
+          font-style: Regular;
+          font-size: 56px;
+          line-height: 120%;
+        }
+        & .firstSectionP {
+          margin-top: 30px;
+          color: #757575;
+          max-width: 410px;
+
+          font-family: Montserrat;
+          letter-spacing: -4;
+          font-weight: 600;
+          font-style: SemiBold;
+          font-size: 18px;
+          line-height: 140%;
+        }
+        & .secondSectionP {
+          max-width: 530px;
+        }
+        & button {
+          margin-top: 32px;
+          padding: 14px 22px;
+          border: unset;
+          border-radius: 100px;
+          background-color: #c3dce3;
+          color: #2b788b;
+
+          font-family: Montserrat;
+          font-weight: 700;
+          font-style: Bold;
+          font-size: 16px;
+          line-height: 100%;
+          vertical-align: middle;
+        }
+        & .leftContainerBottom {
+          display: flex;
+          align-items: center;
+          margin-top: 49px;
+          & .firstSectionlineImage {
+            background-image: url(../../files/Moln.svg);
+            width: 24px;
+            height: 30px;
+            background-size: contain;
+          }
+          & h2 {
+            font-family: Dela Gothic One;
+            font-weight: 400;
+            font-style: Regular;
+            font-size: 40px;
+            line-height: 100%;
+            color: #000000;
+            & span {
+              color: #2b788b;
+            }
+          }
+        }
+        & .firstSectionStudents {
+          margin-top: 3px;
+          margin-left: 46px;
+          font-family: Montserrat;
+          font-weight: 600;
+          font-style: SemiBold;
+          font-size: 16px;
+          line-height: 140%;
+          color: #585858;
+        }
+      }
+      & .firstSectionImageRight {
+        max-width: 100%;
+        max-height: 600px;
+        background-repeat: no-repeat;
+        background-size: contain;
+      }
+      & .secondtSectionImageLeft {
+        max-height: 445px;
+      }
+      & .thirdSectionImageRight {
+        max-height: 473px;
+      }
+    }
+  }
+  & .secondSectionBack {
+    background-color: #ffffff;
+    & .imageContainerSecond {
+      margin-top: 64px;
+      display: flex;
+      align-items: center;
+      gap: 21px;
+      & .secondImageLeft,
+      .secondImageRight {
+        position: relative;
+        & img {
+          left: 5px;
+          top: -39px;
+          position: absolute;
+        }
+        & .imageRight {
+          left: 41px;
+        }
+
+        & p {
+          padding: 82px 34px 14px 34px;
+          background-color: #f2d4dc;
+          border-radius: 14px;
+          font-family: Montserrat;
+          font-weight: 700;
+          font-style: Bold;
+          font-size: 16px;
+          line-height: 100%;
+          letter-spacing: -4;
+          vertical-align: middle;
+          color: #945069;
+        }
+        & .secondP {
+          background-color: #c3dce3;
+          width: 121px;
+          line-height: 100%;
+          letter-spacing: -4%;
+          text-align: center;
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+  & .thirdSectionBack {
+    background-color: #f6f5f4;
+  }
+  & .fourSectionBack {
+    background-color: #ffffff;
+  }
+}
