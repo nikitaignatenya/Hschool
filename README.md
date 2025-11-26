@@ -9,7 +9,7 @@ This is the website of an educational platform dedicated to teaching programming
 <br>
 ✔ A separate dynamic page for registration and login
 
-<img width="1257" height="748" alt="image" src="https://github.com/user-attachments/assets/da5a1d1e-f6fe-480d-8411-e0c00789f765" />
+<img width="1224" height="745" alt="image" src="https://github.com/user-attachments/assets/b29b4e78-62cd-45d6-9f96-c563cff7b82b" />
   
 ## 🔹 Technologies
 - **Frontend:** React, HTML/SCSS
