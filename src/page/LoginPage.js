@@ -16,11 +16,11 @@ function LoginPage() {
             <h1>Login</h1>
             <input
               className={`${loginStyle.inputEmail} ${loginStyle.input}`}
-              placeholder={`${loginStyle.Placeholder} ${loginStyle.text}`}
+              placeholder="Email"
             ></input>
             <input
               className={`${loginStyle.inputPassword} ${loginStyle.input}`}
-              placeholder={`${loginStyle.Placeholder} ${loginStyle.text}`}
+              placeholder="Password"
             ></input>
             <button>Login</button>
           </div>
