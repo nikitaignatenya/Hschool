@@ -1,14 +1,15 @@
  ## 🌐 HSchool 
-is a modern job search SPA app developed in React. Users can browse job openings, filter by salary, keywords, and categories, access full job descriptions, and save their favorites to their favorites.
+This is the website of an educational platform dedicated to teaching programming. The application is built as an SPA with dynamic routing between main pages, ensuring smooth navigation and a modern user experience.
 
 <img width="1248" height="785" alt="image" src="https://github.com/user-attachments/assets/45d111fd-eb83-4686-8f8a-377944f0f3a1" />
 
 
 ## 🔹 Key Features
-✔ React Router - dynamic routes
+✔ React Router
 <br>
 ✔ A separate dynamic page for registration and login
 
+<img width="1257" height="748" alt="image" src="https://github.com/user-attachments/assets/da5a1d1e-f6fe-480d-8411-e0c00789f765" />
   
 ## 🔹 Technologies
 - **Frontend:** React, HTML/SCSS
