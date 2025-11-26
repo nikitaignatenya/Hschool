@@ -1,15 +1,15 @@
  ## 🌐 HSchool 
 This is the website of an educational platform dedicated to teaching programming. The application is built as an SPA with dynamic routing between main pages, ensuring smooth navigation and a modern user experience.
 
-<img width="1248" height="785" alt="image" src="https://github.com/user-attachments/assets/45d111fd-eb83-4686-8f8a-377944f0f3a1" />
-
+<img width="1462" height="782" alt="image" src="https://github.com/user-attachments/assets/05b4c653-88c3-4af1-ae74-ad1b0ad7edb5" />
 
 ## 🔹 Key Features
 ✔ React Router
 <br>
 ✔ A separate dynamic page for registration and login
 
-<img width="1224" height="745" alt="image" src="https://github.com/user-attachments/assets/b29b4e78-62cd-45d6-9f96-c563cff7b82b" />
+<img width="1446" height="745" alt="image" src="https://github.com/user-attachments/assets/c81c6896-60c9-4538-8a94-d624c02c05a4" />
+
   
 ## 🔹 Technologies
 - **Frontend:** React, HTML/SCSS
