@@ -1,4 +1,4 @@
- ## 🌐 HSchool 
+ ## 🌐 Hschool 
 This is the website of an educational platform dedicated to teaching programming. The application is built as an SPA with dynamic routing between main pages, ensuring smooth navigation and a modern user experience.
 
 <img width="1462" height="782" alt="image" src="https://github.com/user-attachments/assets/05b4c653-88c3-4af1-ae74-ad1b0ad7edb5" />
