@@ -28,7 +28,7 @@ function RegisterPage() {
             ></input>
             <input
               className={`${registerStyle.inputPassword} ${registerStyle.input}`}
-              placeholder={`${registerStyle.Placeholder} ${registerStyle.text}`}
+              placeholder="Placeholder text"
             ></input>
             <button>SignUp</button>
           </div>
